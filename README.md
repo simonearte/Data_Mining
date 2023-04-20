@@ -8,8 +8,8 @@ Target variables: vocal_channel, sex, emotional_intensity, emotion
 
 # TODO:
 
-- Simone: Bagging, AdaBoost
-- Blerta: Gradient Boosting
+- Simone: Gradient Boosting
+- Blerta: Bagging, AdaBoost
 - Giacomo: Regression
 -
 # RICORDA
