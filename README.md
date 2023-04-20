@@ -8,18 +8,9 @@ Target variables: vocal_channel, sex, emotional_intensity, emotion
 
 
 
-# ANOMALY DET. 
+# SPINNATO
 
-1.	Depth-based Approaches --> Elliptic Envelope. Dovrebbe andare con dati normali.
-2.	Deviation-based Approaches --> un metodo, fare quello 
-3.	Distance-based Approaches --> KNN. 
-4.	Density-based Approaches --> LOF
-5.	Clustering-based Approaches --> DBSCAN 
-6.	High-dimensional Approaches --> ABOD
-7.	Ensemble-based Appraoches --> LODA
-8.	Model-based Approaches --> isolation forest. 
- 
-# TODO for ANOMALY DET.:
-
-1. Prendere i primi 1% dei dati secondo lo score del metodo. 
+1. Metodo per outliers: va bene intersezioni tra metodi?
+2. NN: perché validation alta e test basso?
+3. Multi-regression task: quali modelli? Selezione dei target?
 
