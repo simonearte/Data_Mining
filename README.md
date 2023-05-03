@@ -9,14 +9,14 @@ Target variables: vocal_channel, sex, emotional_intensity, emotion
 # TODO:
 
 - Simone: Gradient Boosting
-- Blerta: Bagging, AdaBoost
+- Blerta: KNN e DT con class_weight; Random Undersampling con 10 iterazioni (random_state diverso per ogni iterazione); dummy classifier come baseline.
 - Giacomo: Regression
--
+- 
 # RICORDA
 
-- Simo: dare un nome a X_train, y_train, X_test, y_test
-- Blerta: controlla che il codice di Logistic (grid searches) sia corretto
-- Labeling encoding con funzioni manuali (o check tra numero di valori prima e dopo labeling automatico)
+- Blerta: riportare valori di accuracy e F1 weighted per logistic
+- Per ogni modello-target calcolare anche le probabilità per ROC e riportarle su file DM2_Evaluation
+- F1 considerare sempre weighted
 
 # SPINNATO
 
