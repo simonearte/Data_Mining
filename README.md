@@ -1,4 +1,5 @@
 # Data_Mining_2
+Used Dataset: RAVDESS Emotional speech audio (https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio)
 Data Mining 2 Project
 The project is divided into 4 modules:
 
